@@ -1,0 +1,16 @@
+{
+  "name": "recaptcha",
+  "version": "1.0.0",
+  "description": "Bypass captcha recaptcha v2 on https://kgd.gov.kz",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "2captcha-ts": "^2.3.3",
+    "puppeteer": "^22.6.2"
+  }
+}
