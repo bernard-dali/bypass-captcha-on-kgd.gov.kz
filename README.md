@@ -1,7 +1,7 @@
 # Bypass captcha recaptcha v2 on https://kgd.gov.kz
 
 ## Description
-This demo demonstrates how to bypass captcha recaptcha v2 on https://kgd.gov.kz/ using [Puppeteer](https://pptr.dev/). This may be useful to you if you want to parse data from this site. The example uses browser emulation, but if you write a parser, you can just do with queries.
+This demo demonstrates how to bypass captcha recaptcha v2 on https://kgd.gov.kz/ using [Puppeteer](https://pptr.dev/) and [2captcha](https://2captcha.com/?from=22771395) service. This may be useful to you if you want to parse data from this site. The example uses browser emulation, but if you write a parser, you can just do with queries.
 
 ## Setup
 1. Set your 2captcha apikey in `index.js`
